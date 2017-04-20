@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Rewards Page</string>
+    <string name="first">15% Off Blaze Pizza - 20 points</string>
+    <string name="second">Chipotle: Free Guac and Chips with Purchase - 30 points</string>
+    <string name="third">Current Points:</string>
+    <string name="btn_display">Redeem</string>
+    <string name="fourth">50</string>
+
+
+    <string name="text1">Redeem Rewards!</string>
+</resources>
